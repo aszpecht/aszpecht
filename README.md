@@ -1,10 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <!--
 **aszpecht/aszpecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 👂 My name is Ania
-- 👩‍🎓 I am master in Finances and Accounting on an exciting journey in career transition to the IT
+- 👩‍🎓 I am a master in Finances and Accounting on an exciting journey in career transition to the IT
 - 💻 I work in Sii Poland as a Fronted Developer
 - ⚡ I’m currently learning PWA
 - ❤️ I love gardening
