@@ -8,7 +8,7 @@
 - 💻 I work in Sii Poland as a Fronted Developer
 - ⚡ I’m currently learning PWA
 - ❤️ I love gardening
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/anna-szpecht-826b75275/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Ania-blue?style=flat&logo=Linkedin&logoColor=white" style="max-width:100%;"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/anna-szpecht-826b75275/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Ania-blue?style=flat&logo=Linkedin&logoColor=white" style="/* max-width: 100%; */"></a>
             
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
