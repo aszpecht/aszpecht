@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Waving!&text=Hello%20World&fontSize=90&fontAlign=80&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World&fontSize=90&fontAlign=80&fontAlignY=40" />
 </p>
 
 <!--
